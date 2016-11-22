@@ -1,0 +1,95 @@
+.heads {
+	text-align: center;
+}
+
+.sociallinks a {
+	margin-left: 10px;
+}
+
+.sociallinks {
+	float: right;
+}
+
+.social_solid:hover i {
+	color: rgb(255, 255, 255);
+}
+
+.social_solid:hover {
+	background: rgb(255, 255, 255);
+}
+
+.fa {
+	font-size: 21px;
+}
+
+.social_solid {
+	border-radius: 60px;
+	width: 36px;
+	height: 36px;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	transition: border-color .2s ease-in, color .1s ease-in, background .2s ease-in;
+	-webkit-transition: border-color .2s ease-in, color .1s ease-in, background .2s ease-in;
+	-moz-transition: border-color .2s ease-in, color .1s ease-in, background .2s ease-in;
+	-o-transition: border-color .2s ease-in, color .1s ease-in, background .2s ease-in;
+	-webkit-border-radius: 60px;
+	-moz-border-radius: 60px;
+	-ms-border-radius: 60px;
+	-o-border-radius: 60px;
+}
+
+.social_solid i {
+	vertical-align: 5px;
+}
+
+.twitter.social_solid {
+	background: rgb(85, 172, 238);
+}
+
+.twitter.social_solid i {
+	color: rgb(255, 255, 255);
+}
+
+.facebook.social_solid {
+	background: rgb(59, 89, 152);
+}
+
+.facebook.social_solid i {
+	color: rgb(255, 255, 255);
+}
+
+.link.social_solid {
+	background: rgb(102, 204, 0);
+}
+
+.link.social_solid i {
+	color: rgb(255, 255, 255);
+}
+
+.linkedin.social_solid {
+	background: rgb(51, 102, 153);
+}
+
+.linkedin.social_solid i {
+	color: rgb(255, 255, 255);
+	vertical-align: 7px;
+}
+
+.link.social_solid:hover i, .linkedin.social_solid:hover i, .twitter.social_solid:hover i, .facebook.social_solid:hover i {
+	color: rgb(48, 48, 48);
+}
+
+.sociallinks.head {
+	font-size: 12px;
+	float: none;
+}
+
+.spacer {
+	margin: 25px 0 50px 0;
+}
+
+.fa {
+	    margin: 7px 0 0 0;
+
+}
